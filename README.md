@@ -16,4 +16,4 @@ This research contributes to the field by providing insights into the effectiven
 - plots: all generated plots from the analysis
 - src: contains source code for the `class` object of nested-CV and secondary script for custom functions used throught the different stages of this project
 
-*The whole project is further explain in the technical report: "Glykeria_Spyrou_Report_MLCB_Assignment2.pdf"*
+*The whole project is further explained in the technical report: "Glykeria_Spyrou_Report_MLCB_Assignment2.pdf"*
