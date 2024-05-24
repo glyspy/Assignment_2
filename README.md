@@ -9,7 +9,7 @@ Additionally, preprocessing steps and class balancing techniques are explored to
 The study finds that Logistic Regression is the best performing classifier, demonstrating resilience against outliers and robustnessacross different datasets and balancing methods.
 This research contributes to the field by providing insights into the effectiveness of machine learning techniques for diabetes classification.
 
-# Repository structure
+## Repository structure
 - data: contains the diabetes dataset used
 - models: best model from analysis
 - notebooks: jupyter notebooks for EDA, nested CV implementation, final model training, and pipeline for final model testingss
